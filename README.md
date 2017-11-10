@@ -1,4 +1,4 @@
-# AngularTodo
+# Angular Pokedex
 
 ![Pokedex Screenshot](/assets/screenshot.png?raw=true "Pokedex Screenshot")
 
